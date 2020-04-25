@@ -1,0 +1,35 @@
+#a{
+	padding: 0 10px 0;
+	background-color: gray;
+}
+#a>div{
+	font-size: 1.4em;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 6px;
+}
+h1{
+	margin-bottom: 30px;
+}
+li{
+	padding: 7px;
+}
+li:nth-child(1){
+	padding-top:1px;
+	border-bottom: 1px solid black;
+}
+li:nth-child(2){
+	border-bottom: 1px solid black;
+}
+li:nth-child(3){
+	padding-bottom: 1px;
+}
+#bs-example-navbar-collapse-1{
+	background-color: gray;
+}
+.navbar-brand{
+	color: red !important;
+}
+.navbar{
+	background-color: gray;
+}
